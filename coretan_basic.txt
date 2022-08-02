@@ -1,0 +1,10 @@
+const resolver = {
+  Query: {
+    users: ({id,name,email,age}) => {
+      return {id,name,email,age}
+    }
+  }
+}
+
+const fetch = resolver.Query.users({id:1 , name:"tole" , email:"trallaa@gmail.com" , age:19 });
+console.log(fetch);

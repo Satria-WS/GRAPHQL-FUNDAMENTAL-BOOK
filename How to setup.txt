@@ -1,0 +1,4 @@
+1. mkdir graphql-server
+2. npm init -y / yarn init -y
+3. npm install --save-dev graphpack or yarn add --dev graphpack
+4. 
