@@ -4,3 +4,8 @@ open source server-side technology to optimize RESTful API calls
 why GraphQL ?
 when the data gets more complex, the routes get longer. Sometimes it is not possible to fetch data with a single request. This is where GraphQL comes handy.
 GraphQL structures data in the form of a graph with its powerful query syntax for traversing, retrieving, and modifying data.
+
+
+different GraphQL vs REST ?
+RESTS having multiple endpoints
+GraphQL having single endpoints
