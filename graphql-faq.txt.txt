@@ -9,3 +9,4 @@ GraphQL structures data in the form of a graph with its powerful query syntax fo
 different GraphQL vs REST ?
 RESTS having multiple endpoints
 GraphQL having single endpoints
+test
